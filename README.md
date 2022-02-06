@@ -3,6 +3,9 @@
 - 🔭 I’m currently only studying ...
 - 🌱 I’m currently learning Python ...
 - 🤔 I’m looking for help with study ...
+
+##
+
 <div align="center">
   <a href="https://github.com/Uantle">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uantle&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -18,7 +21,6 @@
   ##
   
   <div>
-  <a href="https://www.instagram.com/kl3bersonjr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
+    
   ![Snake animation](https://github.com/Uantle/Uantle/blob/output/github-contribution-grid-snake.svg)
  </div>
